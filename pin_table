@@ -1,0 +1,20 @@
+| Modül / Sinyal      | STM32F4DISCOVERY Pin | Açıklama              |
+| ------------------- | -------------------- | --------------------- |
+| User Button (B1)    | PA0                  | GPIO input, pull-down |
+| Green LED           | PD12                 | GPIO output           |
+| Orange LED / Buzzer | PD13                 | GPIO output           |
+| Red LED             | PD14                 | GPIO output           |
+| Blue LED            | PD15                 | GPIO output           |
+| RFID_SCK            | PA5                  | SPI1_SCK              |
+| RFID_MISO           | PA6                  | SPI1_MISO             |
+| RFID_MOSI           | PA7                  | SPI1_MOSI             |
+| RFID_NSS (CS)       | PA4                  | GPIO output           |
+| RFID_RST            | PB0                  | GPIO output           |
+| Ultrasonic_Trig     | PB10                 | GPIO output           |
+| Ultrasonic_Echo     | PB11                 | GPIO input            |
+| Weight_Sensor       | PA1                  | ADC1_IN1              |
+| Servo_Barrier       | PB6                  | TIM4_CH1 (PWM)        |
+| OLED_SCL            | PB8                  | I2C1_SCL              |
+| OLED_SDA            | PB9                  | I2C1_SDA              |
+| ESP32_TX → STM32_RX | PA3                  | USART2_RX             |
+| ESP32_RX ← STM32_TX | PA2                  | USART2_TX             |

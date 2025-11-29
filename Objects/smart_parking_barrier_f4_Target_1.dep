@@ -1,0 +1,4 @@
+Dependencies for Project 'smart_parking_barrier_f4', Target 'Target_1': (DO NOT MODIFY !)
+CompilerVersion: 6240000::V6.24::ARMCLANG
+F (.\main.c)(0x692B0D35)()
+F (D:/emb/ARM/CMSIS-Compiler/2.1.0/source/armcc/retarget_io.c)(0x68EEA550)()
