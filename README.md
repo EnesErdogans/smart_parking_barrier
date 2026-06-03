@@ -1,7 +1,5 @@
 Smart Parking Barrier System 
-
-    Ahmet Emre BİLGE    : ahmetemre.bilge@agu.edu.tr                                       
-    Fatih  Mehmet Ayhan : fatihmehmet.ayhan@agu.edu.tr                               
+                               
     Enes Erdoğan        : enes.erdogan@agu.edu.tr
 Students , Department of EEE                          
    Abdullah Gül University                                   
