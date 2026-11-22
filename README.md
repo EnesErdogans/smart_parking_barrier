@@ -1,3 +1,8 @@
+> **Note:** This is an early version of the project (proposal + first code).
+> The final, documented version is here: **[Smart_parking_barrier_project](https://github.com/EnesErdogans/Smart_parking_barrier_project)**.
+
+---
+
 Smart Parking Barrier System 
                                
     Enes Erdoğan        : enes.erdogan@agu.edu.tr
